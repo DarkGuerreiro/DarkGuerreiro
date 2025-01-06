@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java/.NET
+- 🌱 I’m currently learning Java/C#
 - 💬 Ask me about EVERYTHING
 - 📫 How to reach me: albertorosaeng@gmail.com
  
